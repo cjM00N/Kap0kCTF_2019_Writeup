@@ -1,0 +1,13 @@
+﻿  源.cpp
+C:\Users\lxf\Desktop\校赛出题\最终\T1\T1\源.cpp(129,24): warning C4101: “xt”: 未引用的局部变量
+C:\Users\lxf\Desktop\校赛出题\最终\T1\T1\源.cpp(160,16): warning C4101: “xt4”: 未引用的局部变量
+C:\Users\lxf\Desktop\校赛出题\最终\T1\T1\源.cpp(161,16): warning C4101: “xt8”: 未引用的局部变量
+C:\Users\lxf\Desktop\校赛出题\最终\T1\T1\源.cpp(159,16): warning C4101: “xt2”: 未引用的局部变量
+C:\Users\lxf\Desktop\校赛出题\最终\T1\T1\源.cpp(365,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\lxf\Desktop\校赛出题\最终\T1\T1\源.cpp(363,6): warning C4101: “j”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  T1.vcxproj -> C:\Users\lxf\Desktop\校赛出题\最终\T1\Release\T1.exe

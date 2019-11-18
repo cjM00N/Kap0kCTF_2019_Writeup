@@ -1,0 +1,58 @@
+{
+	"camera" : 
+	{
+		"center" : "212.840 -190.197 0.000",
+		"eye" : "212.840 -190.197 1.000",
+		"up" : "0.000 1.000 0.000"
+	},
+	"general" : 
+	{
+		"ambientcolor" : "0.300 0.300 0.300",
+		"bloom" : false,
+		"bloomstrength" : 2.0,
+		"bloomthreshold" : 0.64999997615814209,
+		"camerafade" : true,
+		"cameraparallax" : false,
+		"cameraparallaxamount" : 0.5,
+		"cameraparallaxdelay" : 0.10000000149011612,
+		"cameraparallaxmouseinfluence" : 0.0,
+		"camerapreview" : true,
+		"camerashake" : false,
+		"camerashakeamplitude" : 0.5,
+		"camerashakeroughness" : 1.0,
+		"camerashakespeed" : 3.0,
+		"clearcolor" : "0.700 0.700 0.700",
+		"clearenabled" : true,
+		"farz" : 10000.0,
+		"fov" : 50.0,
+		"nearz" : 0.0099999997764825821,
+		"orthogonalprojection" : 
+		{
+			"height" : 1440,
+			"width" : 2560
+		},
+		"skylightcolor" : "0.300 0.300 0.300"
+	},
+	"ctf" : {
+		"lsb_key": "idolmaster"
+	},
+	"objects" : 
+	[
+		{
+			"angles" : "0.000 0.000 0.000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"id" : 13,
+			"image" : "models/Cleasky.json",
+			"locktransforms" : true,
+			"name" : "Cleasky",
+			"origin" : "1280.000 720.000 0.000",
+			"parallaxDepth" : "1.000 1.000",
+			"perspective" : false,
+			"scale" : "1.000 1.000 1.000",
+			"size" : "2560.000 1440.000",
+			"solid" : true,
+			"visible" : true
+		}
+	]
+}

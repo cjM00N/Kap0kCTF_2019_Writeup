@@ -1,0 +1,15 @@
+考点主要是个花指令
+from idaapi import *
+FBIN="E8 83 EC 18 8B CC 89 65 88"
+x=FindBinary(MinEA(),0x03,FBIN)
+PatchByte(x,0x90)
+FBIN ="E8 C7 45 8C 00 00 00 00 C7"
+x=FindBinary(MinEA(),0x03,FBIN)
+PatchByte(x,0x90)
+FBIN ="01 02 03 B8 04 00 00 00"
+x=FindBinary(MinEA(),0x03,FBIN)
+PatchByte(x,0x90)
+x = x+1
+PatchByte(x,0x90)
+x = x+1
+PatchByte(x,0x90)
